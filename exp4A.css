@@ -11,7 +11,7 @@
     justify-content: space-around;
 }
 
-h3{
+/* h3{
     font-size: medium;
     padding: 5px;
     margin: 5px;
@@ -88,4 +88,4 @@ input[type=color]{
     0% { transform: translate(0,  0px); }
     50%  { transform: translate(0, 15px); }
     100%   { transform: translate(0, 0px); }   
-}
+} */
